@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          NextJS starter
+          NextJS starter 2.0
         </h1>
 
       </main>
